@@ -22,3 +22,10 @@ def serve_pie(flavours: list):
 serve_pie(pie)
 ```
 ps: I haven't tested this code to see if it actually works.
+
+To test if it works:
+- [ ] Copy the code
+- [ ] Open VS Code, or the code editor of your choice
+- [ ] Create a new folder
+- [ ] Within the folder, create a Python file with a .py extension
+- [ ] Run the Python file
